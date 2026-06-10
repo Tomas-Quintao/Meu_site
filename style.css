@@ -1,14 +1,8 @@
-
-  body {
-  background-image: url(img/papel_veio.jpg);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
+body{
+    background-color: rgb(82, 82, 82);
 }
 
-p{
-    font-size:large;
-    color:brown;
-  
+
+h1,h2,h4,p{
+    color: white !important;
 }
